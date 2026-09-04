@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/kerneljs/main/.github/assets/thumbnail.png" alt="kerneljs" width="100%">
+</p>
+
 # macOS Kernel Tool (JS)
 
 Node.js CLI to get macOS XNU kernel version.
